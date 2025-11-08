@@ -95,19 +95,3 @@ B.Tech Student | Developer
 📜 License
 
 This project is open-source and available under the MIT License
-.
-
-
---
-OUTPUT
-
-Server.py
-<img width="585" height="258" alt="image" src="https://github.com/user-attachments/assets/e4804547-1609-4f3d-907a-c659c578a309" />
-
-Encryption.py
-<img width="577" height="151" alt="image" src="https://github.com/user-attachments/assets/2112a1c2-e63c-4f69-b0bf-37a9dca54dcc" />
-
-Client.py
-<img width="638" height="520" alt="image" src="https://github.com/user-attachments/assets/6192e48b-60d6-4b2c-af8b-78a046531414" />
-
-
