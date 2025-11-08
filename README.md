@@ -98,15 +98,16 @@ This project is open-source and available under the MIT License
 .
 
 
----
+--
+OUTPUT
 
-### ✅ Steps to Apply:
-1. Open VS Code  
-2. Open your project folder → double-click `README.md`  
-3. Paste the above content  
-4. Press `Ctrl + S` to save  
-5. Then push to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Added README documentation"
-   git push
+Server.py
+<img width="585" height="258" alt="image" src="https://github.com/user-attachments/assets/e4804547-1609-4f3d-907a-c659c578a309" />
+
+Encryption.py
+<img width="577" height="151" alt="image" src="https://github.com/user-attachments/assets/2112a1c2-e63c-4f69-b0bf-37a9dca54dcc" />
+
+Client.py
+<img width="638" height="520" alt="image" src="https://github.com/user-attachments/assets/6192e48b-60d6-4b2c-af8b-78a046531414" />
+
+
